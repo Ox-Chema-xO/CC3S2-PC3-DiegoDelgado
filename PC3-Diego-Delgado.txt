@@ -1,9 +1,0 @@
-# PC3 Proyecto 2: Plataforma de Control de Calidad de Codigo
-
-Nombre y Apellidos: Diego Manuel Delgado Velarde
-
-Codigo: 20222676E
-
-Correo: diego.delgado.v@uni.pe
-
-RepositorioPersonal: https://github.com/Ox-Chema-xO/CC3S2-PC3-DiegoDelgado#
